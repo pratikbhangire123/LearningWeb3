@@ -19,3 +19,4 @@
 17. [Struct in Solidity](https://twitter.com/PratikBhangire/status/1548680535782076416)
 18. [Enum in Solidity](https://twitter.com/PratikBhangire/status/1548954162284707840)
 19. [Default Values of Types in Solidity](https://twitter.com/PratikBhangire/status/1549304496584822786)
+20. [What is Address Type in Solidity?](https://twitter.com/PratikBhangire/status/1549673397910896640)
