@@ -1,3 +1,5 @@
+![LearningWeb3](LearningWeb3.png)
+
 # LearningWeb3
 This is the documentation of my Web3 learning journey like, 
 
