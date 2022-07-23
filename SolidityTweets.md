@@ -21,3 +21,5 @@
 19. [Default Values of Types in Solidity](https://twitter.com/PratikBhangire/status/1549304496584822786)
 20. [What is Address Type in Solidity?](https://twitter.com/PratikBhangire/status/1549673397910896640)
 21. [What are the Members of Addresses in Solidity?](https://twitter.com/PratikBhangire/status/1550037036018667522)
+22. [What is the Contract Types in Solidity?](https://twitter.com/PratikBhangire/status/1550391525057695745)
+23. [Byte Arrays in Solidity](https://twitter.com/PratikBhangire/status/1550757457328308225)
