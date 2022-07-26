@@ -25,3 +25,4 @@
 23. [Byte Arrays in Solidity](https://twitter.com/PratikBhangire/status/1550757457328308225)
 24. [What are Literals in Solidity?](https://twitter.com/PratikBhangire/status/1551123351820980229)
 25. [What is User-defined Value Types in Solidity?](https://twitter.com/PratikBhangire/status/1551470827014856704)
+26. [What is Reference Types in Solidity?](https://twitter.com/PratikBhangire/status/1551846669976993792)
