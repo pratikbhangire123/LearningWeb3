@@ -28,3 +28,4 @@
 26. [What is Reference Types in Solidity?](https://twitter.com/PratikBhangire/status/1551846669976993792)
 27. [What is Mapping Types in Solidity?](https://twitter.com/PratikBhangire/status/1552238939351973888)
 28. [What are the Operators in Solidity?](https://twitter.com/PratikBhangire/status/1552675474589220864)
+29. [How do Conversions between Elementary Types Work in Solidity?](https://twitter.com/PratikBhangire/status/1552943688057499648)
