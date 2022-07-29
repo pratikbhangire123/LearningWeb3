@@ -27,3 +27,4 @@
 25. [What is Reference Types in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-ethereum-activity-6957613691617841152-_UAV)
 26. [What is Mapping Types in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-smartcontracts-activity-6958002271016112128-1re6)
 27. [What are the Operators in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6958438804055560192-IDFz)
+28. [How do Conversions between Elementary Types Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6958705980503150592-nW6d)
