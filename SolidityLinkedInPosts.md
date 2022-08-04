@@ -32,3 +32,4 @@
 30. [What are the Units in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6959410541270306816--AcL)
 31. [What are the Mathematical and Cryptographic Functions in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-activity-6959763223763914752-_GL3)
 32. [What is the ‘selfdestruct’ Method in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6960129999001579520-kUSP)
+33. [How to Retrieve the Type Information in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6960903771174391809-lwnc)
