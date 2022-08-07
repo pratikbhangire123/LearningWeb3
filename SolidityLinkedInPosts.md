@@ -35,3 +35,4 @@
 33. [How to Retrieve the Type Information in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6960903771174391809-lwnc)
 34. [Types of Function Calls in Solidity](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6961244859458310144-6PXh)
 35. [How to Create Contract from a Contract in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6961635491003678721-sHAI)
+36. [What is Salted Contract Creation or Create2 in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-smartcontracts-activity-6961977947465396224-r9lX)
