@@ -37,3 +37,4 @@
 35. [Types of Function Calls in Solidity](https://twitter.com/PratikBhangire/status/1555477141378461696)
 36. [How to Create Contract from a Contract in Solidity?](https://twitter.com/PratikBhangire/status/1555867441020174336)
 37. [What is Salted Contract Creation or Create2 in Solidity?](https://twitter.com/PratikBhangire/status/1556210000221315074)
+38. [What are the Methods of Error Handling in Solidity?](https://twitter.com/PratikBhangire/status/1556559362692612096)
