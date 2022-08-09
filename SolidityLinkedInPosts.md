@@ -37,3 +37,4 @@
 35. [How to Create Contract from a Contract in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6961635491003678721-sHAI)
 36. [What is Salted Contract Creation or Create2 in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-smartcontracts-activity-6961977947465396224-r9lX)
 37. [What are the Methods of Error Handling in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6962327449053335552-Y3tS)
+38. [Constant and Immutable State Variables in Solidity](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6962794950287634432-DDtQ)
