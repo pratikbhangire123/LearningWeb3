@@ -39,4 +39,5 @@
 37. [What is Salted Contract Creation or Create2 in Solidity?](https://twitter.com/PratikBhangire/status/1556210000221315074)
 38. [What are the Methods of Error Handling in Solidity?](https://twitter.com/PratikBhangire/status/1556559362692612096)
 39. [Constant and Immutable State Variables in Solidity](https://twitter.com/PratikBhangire/status/1557028641015746561)
-40. [How does Function Overloading Work in Solidity?](https://twitter.com/PratikBhangire/status/1558014628013420544)
+40. [What are the Special Functions in Solidity?](https://twitter.com/PratikBhangire/status/1557342226245906433)
+41. [How does Function Overloading Work in Solidity?](https://twitter.com/PratikBhangire/status/1558014628013420544)
