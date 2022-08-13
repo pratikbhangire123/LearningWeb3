@@ -40,3 +40,4 @@
 38. [Constant and Immutable State Variables in Solidity](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6962794950287634432-DDtQ)
 39. [What are the Special Functions in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6963108579822170112-WeyN)
 40. [How does Function Overloading Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6963780904099983360-tpcf)
+41. [How does Inheritance Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6964146989965946880-L95F)
