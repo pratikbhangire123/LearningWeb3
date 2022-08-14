@@ -42,3 +42,4 @@
 40. [What are the Special Functions in Solidity?](https://twitter.com/PratikBhangire/status/1557342226245906433)
 41. [How does Function Overloading Work in Solidity?](https://twitter.com/PratikBhangire/status/1558014628013420544)
 42. [How does Inheritance Work in Solidity?](https://twitter.com/PratikBhangire/status/1558380629645234176)
+43. [How does Function Overriding Work in Solidity?](https://twitter.com/PratikBhangire/status/1558782566458851334)
