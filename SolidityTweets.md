@@ -44,3 +44,4 @@
 42. [How does Inheritance Work in Solidity?](https://twitter.com/PratikBhangire/status/1558380629645234176)
 43. [How does Function Overriding Work in Solidity?](https://twitter.com/PratikBhangire/status/1558782566458851334)
 44. [What is Modifier Overriding in Solidity?](https://twitter.com/PratikBhangire/status/1559084417729327104)
+45. [How does the Constructor Work in Solidity?](https://twitter.com/PratikBhangire/status/1559428291765108738)
