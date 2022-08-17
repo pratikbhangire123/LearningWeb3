@@ -44,3 +44,4 @@
 42. [How does Function Overriding Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-activity-6964549073395695616-0S8T)
 43. [What is Modifier Overriding in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6964851007998570496-Vu8K)
 44. [How does the Constructor Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6965194694850957312-_eyU)
+45. [What is Abstract Contract in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6965594248872144896-5SgE)
