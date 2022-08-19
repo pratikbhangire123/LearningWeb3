@@ -45,3 +45,4 @@
 43. [What is Modifier Overriding in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6964851007998570496-Vu8K)
 44. [How does the Constructor Work in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6965194694850957312-_eyU)
 45. [What is Abstract Contract in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6965594248872144896-5SgE)
+46. [What are the Libraries in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6966311302654771201-Ph21)
