@@ -46,4 +46,5 @@
 44. [What is Modifier Overriding in Solidity?](https://twitter.com/PratikBhangire/status/1559084417729327104)
 45. [How does the Constructor Work in Solidity?](https://twitter.com/PratikBhangire/status/1559428291765108738)
 46. [What is Abstract Contract in Solidity?](https://twitter.com/PratikBhangire/status/1559827539237158912)
-47. [What are the Libraries in Solidity?](https://twitter.com/PratikBhangire/status/1560545107216318464)
+47. [What is Interface in Solidity?](https://twitter.com/PratikBhangire/status/1560151895330942976)
+48. [What are the Libraries in Solidity?](https://twitter.com/PratikBhangire/status/1560545107216318464)
