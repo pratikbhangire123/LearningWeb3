@@ -47,3 +47,4 @@
 45. [What is Abstract Contract in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-smartcontracts-activity-6965594248872144896-5SgE)
 46. [What is Interface in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6965929903821139969-7pXa)
 47. [What are the Libraries in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6966311302654771201-Ph21)
+48. [What is “Using For” in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-activity-6966681746985639936-HBX2)
