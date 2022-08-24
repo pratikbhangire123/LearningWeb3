@@ -50,3 +50,4 @@
 48. [What is “Using For” in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchaindevelopment-activity-6966681746985639936-HBX2)
 49. [What is Inline Assembly in Solidity? (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_solidity-ethereum-activity-6967389633793921025-m9y-)
 50. [What is Inline Assembly in Solidity? (Part-2)](https://www.linkedin.com/posts/pratik-bhangire_solidity-ethereum-activity-6967765253518450688-E2ge)
+51. [What is the Order of Precedence of Operators in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968098049042640896-byD2)
