@@ -53,3 +53,4 @@
 51. [What is Inline Assembly in Solidity? (Part-2)](https://twitter.com/PratikBhangire/status/1561998526154182656)
 52. [What is the Order of Precedence of Operators in Solidity?](https://twitter.com/PratikBhangire/status/1562330674493009922)
 53. [List of Global Variables in Solidity](https://twitter.com/PratikBhangire/status/1562721586700242946)
+54. [List of Reserved Keywords in Solidity](https://twitter.com/PratikBhangire/status/1563056206763405315)
