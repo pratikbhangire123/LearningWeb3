@@ -53,3 +53,4 @@
 51. [What is the Order of Precedence of Operators in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968098049042640896-byD2)
 52. [List of Global Variables in Solidity (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968489202464223232-kLWg)
 53. [List of Global Variables in Solidity (Part-2)](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968490502950129665-npzW)
+54. [List of Reserved Keywords in Solidity](https://www.linkedin.com/posts/pratik-bhangire_reserved-keywords-in-solidity-activity-6968823344758468608-mVak)
