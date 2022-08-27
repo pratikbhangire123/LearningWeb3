@@ -54,3 +54,4 @@
 52. [List of Global Variables in Solidity (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968489202464223232-kLWg)
 53. [List of Global Variables in Solidity (Part-2)](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6968490502950129665-npzW)
 54. [List of Reserved Keywords in Solidity](https://www.linkedin.com/posts/pratik-bhangire_reserved-keywords-in-solidity-activity-6968823344758468608-mVak)
+55. [What is the Layout of State Variables in Storage in Solidity? (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchain-activity-6969180570350153728-9_cQ)
