@@ -55,3 +55,4 @@
 53. [List of Global Variables in Solidity](https://twitter.com/PratikBhangire/status/1562721586700242946)
 54. [List of Reserved Keywords in Solidity](https://twitter.com/PratikBhangire/status/1563056206763405315)
 55. [What is the Layout of State Variables in Storage in Solidity? (Part-1)](https://twitter.com/PratikBhangire/status/1563413399811543042)
+56. [What is the Layout of State Variables in Storage in Solidity? (Part-2)](https://twitter.com/PratikBhangire/status/1564493475361726466)
