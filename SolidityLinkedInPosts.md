@@ -56,3 +56,4 @@
 54. [List of Reserved Keywords in Solidity](https://www.linkedin.com/posts/pratik-bhangire_reserved-keywords-in-solidity-activity-6968823344758468608-mVak)
 55. [What is the Layout of State Variables in Storage in Solidity? (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchain-activity-6969180570350153728-9_cQ)
 56. [What is the Layout of State Variables in Storage in Solidity? (Part-2)](https://www.linkedin.com/posts/pratik-bhangire_solidity-blockchain-activity-6970259940275810304--TIS)
+57. [What is the Layout of State Variables in Storage in Solidity? (Part-3)](https://twitter.com/PratikBhangire/status/1565257110711320578)
