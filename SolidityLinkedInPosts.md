@@ -60,3 +60,4 @@
 58. [What is the Layout in Memory in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6971384925090398208-NYZU)
 59. [What is the Layout of Call Data in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6971747465863540737-JtrP)
 60. [Cleaning Up Variables in Solidity](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6972854176628269056-ZJbS)
+61. [What are Source Mappings in Solidity?](https://www.linkedin.com/posts/pratik-bhangire_solidity-activity-6973626809225523200-NTT7)
