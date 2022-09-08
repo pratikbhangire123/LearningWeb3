@@ -59,3 +59,4 @@
 57. [What is the Layout of State Variables in Storage in Solidity? (Part-3)](https://twitter.com/PratikBhangire/status/1565257110711320578)
 58. [What is the Layout in Memory in Solidity?](https://twitter.com/PratikBhangire/status/1565618429771804673)
 59. [What is the Layout of Call Data in Solidity?](https://twitter.com/PratikBhangire/status/1565980665606455297)
+60. [Cleaning Up Variables in Solidity](https://twitter.com/PratikBhangire/status/1567087728264904704)
