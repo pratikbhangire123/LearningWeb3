@@ -9,3 +9,6 @@
 7. [What are React Lists?](https://www.linkedin.com/posts/pratik-bhangire_react-reactjs-javascript-activity-6946732268161769472-OgrA)
 8. [What is React Memo?](https://www.linkedin.com/posts/pratik-bhangire_react-reactjs-javascript-activity-6947091702604017666-MTb8)
 9. [What is Pre-rendering in Next.js?](https://www.linkedin.com/posts/pratik-bhangire_nextjs-reactjs-javascript-activity-6948555441882701825-lZ0l)
+10. [What is Static Generation in Next.js? (Part-1)](https://www.linkedin.com/posts/pratik-bhangire_nextjs-reactjs-activity-6976471032073191425-T1B1)
+11. [What is Static Generation in Next.js? (Part-2)](https://www.linkedin.com/posts/pratik-bhangire_nextjs-reactjs-activity-6976472117332594689-aYY_)
+12. [What is Server-side Rendering in Next.js?](https://www.linkedin.com/posts/pratik-bhangire_nextjs-react-activity-6976823976668856320-gpon)
