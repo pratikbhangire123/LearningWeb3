@@ -9,3 +9,4 @@
 7. [What is React Memo?](https://twitter.com/PratikBhangire/status/1541324800530219009)
 8. [What is Pre-rendering in Next.js?](https://twitter.com/PratikBhangire/status/1542788408174850048)
 9. [What is Static Generation in Next.js?](https://twitter.com/PratikBhangire/status/1570701214547054598)
+10. [What is Server-side Rendering in Next.js?](https://twitter.com/PratikBhangire/status/1571057430888611840)
