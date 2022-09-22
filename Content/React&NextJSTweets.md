@@ -8,3 +8,4 @@
 6. [What are React Lists?](https://twitter.com/PratikBhangire/status/1540965169844846592)
 7. [What is React Memo?](https://twitter.com/PratikBhangire/status/1541324800530219009)
 8. [What is Pre-rendering in Next.js?](https://twitter.com/PratikBhangire/status/1542788408174850048)
+9. [What is Static Generation in Next.js?](https://twitter.com/PratikBhangire/status/1570701214547054598)
